@@ -1,0 +1,22 @@
+/* styles.css */
+
+.odd {
+  background-color: salmon;
+  color: black;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#cooler {
+  font-size: 24px;
+}   
+
+#one {
+  color: blue;
+  font-size: 36px;
+}
+
+#another {
+  background-color: limegreen;
+  font-weight: bold;
+  font-size: 24px;
+}
